@@ -1,5 +1,8 @@
 # Credit Card Default Prediction Service
 
+[![GitHub](https://img.shields.io/badge/GitHub-AVCandP%2Fdefault--credit--card-blue)](https://github.com/AVCandP/default-credit-card)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-avcyber%2Fdefault--credit--card-blue)](https://hub.docker.com/r/avcyber/default-credit-card)
+
 Flask-сервис для предсказания дефолта по кредитной карте на основе датасета UCI Default of Credit Card Clients.
 
 **Модели:**
