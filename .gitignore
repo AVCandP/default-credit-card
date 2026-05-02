@@ -27,3 +27,4 @@ Thumbs.db
 
 # Large dataset — скачать с UCI: https://archive.ics.uci.edu/dataset/350
 data/UCI_Credit_Card.csv
+task/
